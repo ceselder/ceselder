@@ -1,7 +1,7 @@
 # Heya 👋
 Welcome! My name is Celeste.
 I'm a computer science student at Ghent University.
-Currently obsessed interested in full-stack development.
+Currently obsessed with full-stack development.
 
 [![Celeste Github Stats](https://github-readme-stats.vercel.app/api?username=ceselder)](https://github.com/anuraghazra/github-readme-stats)
 
