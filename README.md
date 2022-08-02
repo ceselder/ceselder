@@ -3,6 +3,8 @@ Welcome! My name is Celeste.
 I'm a computer science student at Ghent University.
 Currently obsessed with full-stack development.
 
+Fluent in **English** and **Dutch**
+
 [![Celeste Github Stats](https://github-readme-stats.vercel.app/api?username=ceselder)](https://github.com/anuraghazra/github-readme-stats)
 
 ## **Technologies**
