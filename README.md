@@ -1,4 +1,4 @@
-# **Heya **👋
+# Heya 👋
 Welcome! My name is Celeste.
 I'm a computer science student at Ghent University.
 Currently very interested in full-stack development.
