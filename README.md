@@ -1,8 +1,9 @@
 # Heya 👋
 Welcome! My name is Celeste.
 I'm a computer science student at Ghent University.
-Currently very interested in full-stack development.
+Currently obsessed interested in full-stack development.
 
+[![Celeste Github Stats](https://github-readme-stats.vercel.app/api?username=ceselder)](https://github.com/anuraghazra/github-readme-stats)
 
 ## **Technologies**
 <!-- https://ileriayo.github.io/markdown-badges/ -->
@@ -15,3 +16,6 @@ Currently very interested in full-stack development.
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+
+## **Contact info**
+![Discord](https://img.shields.io/badge/celeste#4332-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
